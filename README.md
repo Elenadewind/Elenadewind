@@ -12,7 +12,8 @@
            -  - Инструменты статического анализа (Bandit, ShellCheck, clang-tidy).
               -  - Тестирование под нагрузкой и мониторинг системных вызовов.
                  -  **Как использовать:**
-                 -    1. Клонируйте репозиторий:      ```bash    git clone https://github.com/elenadewind/security-audit-checklist.git
+                 -    1. Клонируйте репозиторий:      ```bash     clone https://github.com/elenadewind/security-audit-checklist.git
+                 ####  Инструмент для локального запуска LLM без облака https://github.com/Elenadewind/local-llm-runner
          -  ## Как связаться
          -   - Email:rusluvlang@yandex.ru
              - ## Лицензии
