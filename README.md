@@ -49,7 +49,7 @@
 - Business: $199/мес (10 000 документов + OCR);
 - Enterprise: $499/мес (неограниченно + интеграция с ERP).
 
-- #### 4. AI-Powered-Behavioral-Anomaly-Detector-v.1.0
+### 4. AI-Powered-Behavioral-Anomaly-Detector-v.1.0
 - A malware detection system that uses AI to mask code. It analyzes the behaviour of processes rather than static code.
 - Система обнаружения вредоносного ПО, использующего ИИ для маскировки кода. Анализирует поведение процессов, а не статический код.
 - Key capabilities: Interception of calls to LLM APIs (Gemini, GPT, etc.).
