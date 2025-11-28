@@ -1,5 +1,6 @@
+My name is Elena Laseeva
 # Привет! Меня зовут Елена Ласеева
-## Мои проекты
+## Мои проекты (My projects)
 Я разрабатываю инструменты для безопасности кода, локального ИИ и автоматизации юридической обработки документов. Сейчас активно веду четыре репозитория:
 1. security-audit-checklist
 A practical checklist for code security audits. Helps identify vulnerabilities before release.
